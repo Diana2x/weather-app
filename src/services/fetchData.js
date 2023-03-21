@@ -15,6 +15,7 @@ export const fetchData2 = (city, setWeather, setErrorDisplay, setCity) => {
         setErrorDisplay("Please enter a valid City");
         setWeather(null);
         setCity("");
+        console.log(city);
       });
   }
 };
