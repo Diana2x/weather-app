@@ -1,6 +1,5 @@
 import "./App.css";
 import { useState, useEffect } from "react";
-import axios from "axios";
 import { convertToCelsius } from "./temperatureConvertion";
 import { convertToDate } from "./dateConvertion";
 import { fetchData2 } from "./services/fetchData";
