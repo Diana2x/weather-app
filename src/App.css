@@ -24,7 +24,7 @@ html {
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background-image: url(../build/Purple-Wallpaper-Romantic.png);
+  background-image: url(assets/Purple-background.png);
   background-position: center;
   background-repeat: no-repeat;
   font-size: 2.5rem;
